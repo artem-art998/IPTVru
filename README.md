@@ -1,5 +1,5 @@
 Смешанный плейлист iptv Руские каналы тв  в формате m3u.
-
+Ссылка: https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
 Для Андроид ТВ.
 Работают на проигрывателе.
 Wuffy Player (версия : 3.5.7 arm64-v8a) apk.
