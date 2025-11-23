@@ -591,3 +591,13 @@ http://212.193.53.254/app/potok/playlist.m3u8
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1,Сок ТВ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
+#EXTINF:-1,RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1,TLC
+http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1,TLC Россия HD
+http://94.232.127.28:8080/tlc/index.m3u8
+#EXTINF:-1,HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1,ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
