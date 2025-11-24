@@ -355,8 +355,6 @@ https://fl1001.bozztv.com/ushba44/index.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1,MTV 80s
 http://213.169.39.30:5137
-#EXTINF:-1,Fashion TV Paris
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1,ОТВ Приморье
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
 #EXTINF:-1,ТВ-3
@@ -447,19 +445,13 @@ http://a0925677.xsph.ru/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
 http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
 #EXTINF:-1,Домашний
 http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1,ТЕО ТВ HD (Москва)
-http://a0925677.xsph.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
 #EXTINF:-1,2x2
 http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1,EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1,Eurosport HD
-http://195.64.140.147:10114/114
-#EXTINF:-1,Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Семейное кино
+#EXTINF:-1,eurosport2
 http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1,Матч! Арена
 http://46.8.46.14/arena/index.m3u8
@@ -483,8 +475,6 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 http://95.85.109.219:7000/play/a05u
 #EXTINF:-1,UzSport
 https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-#EXTINF:-1,Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1,Racing America
 https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 #EXTINF:-1,OTV (Латвия)
@@ -493,8 +483,6 @@ http://84.245.224.71/OTV/mono.m3u8
 http://95.46.208.8:24432/skif
 #EXTINF:-1,Залипательные ролики
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Залипательные ролики 2
-https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1,Приколы 1
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Приколы 2
@@ -550,8 +538,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1,Ю
-http://tv.ttk.mx:9072
-#EXTINF:-1,Ю
 http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1,Ю
 http://178.212.71.253:8000/play/105/index.m3u8
@@ -559,10 +545,6 @@ http://178.212.71.253:8000/play/105/index.m3u8
 http://95.66.188.74/U/index.m3u8
 #EXTINF:-1,Ю
 http://5.188.221.43:8080/play/utv
-#EXTINF:-1,Ю
-http://139.28.255.188:8080/yutv/index.m3u8
-#EXTINF:-1,Ю
-http://217.25.80.16/U/mono.m3u8
 #EXTINF:-1,Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1,Бобер
@@ -575,29 +557,15 @@ http://95.66.188.74:80/Bober/mono.m3u8
 http://91.194.191.241:8081/chid34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Бобер
 http://193.25.8.59:8000/bober
-#EXTINF:-1,Бобер
-http://217.25.80.16/BOBER/mono.m3u8
-#EXTINF:-1,Евпатория 24
-http://tv.ttk.mx:9177
 #EXTINF:-1,Смотрим 100% Факты
 http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 #EXTINF:-1,Смотрим 100% Любовь
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:-1,Смотрим Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1,Харьков Z
-http://212.193.53.254/app/potok/playlist.m3u8
-#EXTINF:-1,Первый Медицинский канал
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1,Сок ТВ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1,RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1,TLC
-http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1,TLC Россия HD
 http://94.232.127.28:8080/tlc/index.m3u8
-#EXTINF:-1,HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1,ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
