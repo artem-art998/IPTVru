@@ -565,6 +565,8 @@ http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1,RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1,TLC
+http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1,TLC Россия HD
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,ТБН
