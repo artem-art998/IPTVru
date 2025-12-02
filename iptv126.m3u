@@ -51,8 +51,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1,Твое ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1,Redcom TV (Хабаровск)
-https://camcity.redcom.ru/Redcams/index.m3u8
 #EXTINF:-1,Ател ТВ (Рыбинск)
 https://iptv.atel.me/live/123/atel.m3u8
 #EXTINF:-1,Радио Kids FM
@@ -95,10 +93,6 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,4FUN (музыка)
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1,MUZZIK HIP-HOP (музыка)
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1,POP STAR (музыка)
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1,Trace Urban HD (музыка)
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,TVM3 (музыка)
@@ -113,7 +107,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 #EXTINF:-1,Беларусь 24 (HD)
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1,Первый информационный (HD)
+#EXTINF:-1,Первый информационный (HD) BY
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1,Мультимания (SDTV)
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
@@ -171,8 +165,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1,Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1,Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1,NM Television
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1,Страна FM
@@ -241,8 +233,6 @@ http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1,ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1,Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1,Дом Кино
@@ -253,8 +243,6 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 http://188.237.47.212:6005
 #EXTINF:-1,Загородная Жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1,Новое HD
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1,ABC News Live HD
 https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1,NBC News NOW HD
@@ -283,18 +271,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1,Amedia 2
-http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1,Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1,Fox Life HD
 http://188.237.47.212:6008
-#EXTINF:-1,Кинопремьера
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киносемья
-http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киносвидание
-http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
@@ -307,7 +287,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1,Кинозалы 1
+#EXTINF:-1,sport danse
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозалы 3
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
@@ -325,7 +305,7 @@ https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозалы 12
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 13
+#EXTINF:-1,Кинозалы 13 
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
 #EXTINF:-1,Кинозалы 14
 https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
@@ -565,9 +545,47 @@ http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1,RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1,TLC
-http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1,TLC Россия HD
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1,TLC
+http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1,Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1,О!
+http://95.66.188.74:80/O/mono.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1,Перец
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1,Рен ТВ Int.
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1,.Black
+http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1,Сити Эдем — КиноАзия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноАРТ
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноДетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноДрама
+https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноКлассика
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноКомедия
+https://autopilot.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — ТелеНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — Христианский
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
