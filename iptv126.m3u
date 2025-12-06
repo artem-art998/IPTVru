@@ -43,8 +43,6 @@ https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/chunklist_b30048000_sleng.m3u8
 #EXTINF:-1,Бог Благ ТВ
 https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Настоящее Время HD
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 #EXTINF:-1,Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1,Твое ТВ Юмор
@@ -431,8 +429,6 @@ http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1,EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1,eurosport2
-http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1,Матч! Арена
 http://46.8.46.14/arena/index.m3u8
 #EXTINF:-1,Матч! Игра
@@ -457,8 +453,6 @@ http://95.85.109.219:7000/play/a05u
 https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
 #EXTINF:-1,Racing America
 https://livetv-fa.tubi.video/racing-america/playlist.m3u8
-#EXTINF:-1,OTV (Латвия)
-http://84.245.224.71/OTV/mono.m3u8
 #EXTINF:-1,СкиФ
 http://95.46.208.8:24432/skif
 #EXTINF:-1,Залипательные ролики
@@ -501,8 +495,6 @@ https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1,Театр
 http://46.8.46.14/Teatr/index.m3u8
-#EXTINF:-1,TLC HD
-http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:-1,SuperTennis
@@ -545,12 +537,8 @@ http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1,RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1,TLC Россия HD
-http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
-#EXTINF:-1,TLC
-http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1,Три ангела
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1,О!
@@ -559,8 +547,6 @@ http://95.66.188.74:80/O/mono.m3u8
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1,Перец
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:-1,Рен ТВ Int.
-http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1,.Black
 http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1,Сити Эдем — КиноАзия
@@ -589,3 +575,45 @@ https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1,Настоящее время HD [СМИ иногент]
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1,Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:-1,ОСН ТВ
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1,Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1,Saga TV
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1,Women's Magazine
+http://146.120.14.239:3001/play/a08w
+#EXTINF:-1,UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Арт
+http://95.47.156.60:8000/play/a011/index.m3u8
+#EXTINF:-1,Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1,Nat Geo Wild HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
+#EXTINF:-1,LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1,Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1,Овертайм
+https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1,impact
+https://glorystartv.live/Impact/index.m3u8
