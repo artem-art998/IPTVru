@@ -617,3 +617,33 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,impact
 https://glorystartv.live/Impact/index.m3u8
+#EXTINF:-1,Австрия (горнолыжный курорт)
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera2.stream/chunklist.m3u8
+#EXTINF:-1,Австрия
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
+#EXTINF:-1,Австрия
+http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
+#EXTINF:-1,Бразилия (аэродром)
+http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:-1,Португалия (побережье)
+http://camsecure.co/HLS/sagressholidays.m3u8
+#EXTINF:-1,Венгрия
+https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
+#EXTINF:-1,Канада
+https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
+#EXTINF:-1,Канада (каток)
+https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist.m3u8
+#EXTINF:-1,Казахстан (Нур султан)
+http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
+#EXTINF:-1,Вильнюс
+http://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
+#EXTINF:-1,Краков
+http://hoktastream4.webcamera.pl/krakow_cam_c4feaa/krakow_cam_c4feaa.stream/playlist.m3u8
+#EXTINF:-1,Краков
+http://hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/playlist.m3u8
+#EXTINF:-1,Польша (побережье Балтики)
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1,Воцлав
+https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1,Франция
+https://live.viewsurf.com/liveedge/sanary01_5_3/playlist.m3u8
