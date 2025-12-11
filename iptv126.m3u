@@ -603,8 +603,10 @@ https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/m
 https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
 #EXTINF:-1,Австрия
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
-#EXTINF:-1,Бразилия (аэродром)
-http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:-1,Бразилия 
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:-1,Аэропорт Дюссельдорфа
+http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
 #EXTINF:-1,Португалия (побережье)
 http://camsecure.co/HLS/sagressholidays.m3u8
 #EXTINF:-1,Венгрия
