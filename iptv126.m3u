@@ -23,8 +23,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1,Вера 24
 https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
-#EXTINF:-1,Крик ТВ
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1,TBN Украина
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1,E TV HD
@@ -361,10 +359,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1,360° Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1,Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Крик ТВ HD
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1,Лен ТВ 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 #EXTINF:-1,Мир 24 HD
@@ -597,20 +591,10 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,impact
 https://glorystartv.live/Impact/index.m3u8
-#EXTINF:-1,Австрия (горнолыжный курорт)
-https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera2.stream/chunklist.m3u8
-#EXTINF:-1,Австрия
-https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
 #EXTINF:-1,Австрия
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
-#EXTINF:-1,Бразилия 
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-#EXTINF:-1,Аэропорт Дюссельдорфа
-http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
 #EXTINF:-1,Португалия (побережье)
 http://camsecure.co/HLS/sagressholidays.m3u8
-#EXTINF:-1,Венгрия
-https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
 #EXTINF:-1,Канада
 https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
 #EXTINF:-1,Канада (каток)
@@ -685,3 +669,5 @@ http://ott.server-iptv.live/520/video.m3u8?token=S793FB1732
 http://ott.server-iptv.live/521/video.m3u8?token=S793FB1732
 #EXTINF:-1,Cartoons 90
 http://ott.server-iptv.live/519/video.m3u8?token=S793FB1732
+#EXTINF:-1,Бразилия
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
