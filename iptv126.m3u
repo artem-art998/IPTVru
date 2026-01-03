@@ -201,12 +201,8 @@ https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SPOOPS
 https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Baby Time
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1,70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1,Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,dance hits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Девятка HD
@@ -237,7 +233,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1,UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1,DAZN Combat
+#EXTINF:-1,DAZN Combat (бокс) 
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1,Trace Sport Stars
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -247,8 +243,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1,Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1,Fox Life HD
-http://188.237.47.212:6008
 #EXTINF:-1,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
@@ -257,7 +251,7 @@ http://178.212.71.253:8000/play/124/index.m3u8
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,Alpha Funny
+#EXTINF:-1,Alpha Funny (ВК видео)
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
@@ -275,8 +269,6 @@ https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозалы 9
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозалы 12
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозалы 13 
@@ -353,8 +345,6 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1,СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1,СТС Love
-http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1,Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1,Теледом HD
@@ -409,10 +399,6 @@ http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1,Fuel TV HD
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1,UzSport
-https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-#EXTINF:-1,Racing America
-https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 #EXTINF:-1,Залипательные ролики
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Приколы 1
@@ -427,28 +413,18 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
-#EXTINF:-1,Travel Channel HD
-http://195.64.140.147:10158/158
-#EXTINF:-1,ZooПарк
-http://46.8.46.14/zoo/index.m3u8
 #EXTINF:-1,Про100 ТВ
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1,Да Винчи
-http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1,World Fashion
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1,Театр
-http://46.8.46.14/Teatr/index.m3u8
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:-1,SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1,BIKE Channel
-https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:-1,4fun.tv Ⓢ
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,Yahoo! Finance
@@ -474,8 +450,6 @@ http://95.66.188.74/Bober/index.m3u8
 #EXTINF:-1,Бобер
 http://95.66.188.74:80/Bober/mono.m3u8
 #EXTINF:-1,Бобер
-http://91.194.191.241:8081/chid34/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Бобер
 http://193.25.8.59:8000/bober
 #EXTINF:-1,Смотрим 100% Факты
 http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
@@ -491,14 +465,10 @@ https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1,О!
 http://95.66.188.74:80/O/mono.m3u8
-#EXTINF:-1,Перец
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1,.Black
 http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1,Сити Эдем — КиноАзия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1,Сити Эдем — КиноАРТ
-https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем — КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем — КиноДок
@@ -669,3 +639,5 @@ http://4.59.210.197:8815/udp/127.0.0.1:6002
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+#EXTINF:-1,Перец Int.
+http://158.101.222.193:88/georgia_play.php?id=perec
