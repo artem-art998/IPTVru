@@ -495,8 +495,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1,Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
-#EXTINF:-1,UNBEATEN
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1,Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1,Перец
@@ -545,99 +543,21 @@ http://hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/play
 http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 #EXTINF:-1,Воцлав
 https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
-#EXTINF:-1,Франция
-https://live.viewsurf.com/liveedge/sanary01_5_3/playlist.m3u8
-#EXTINF:-1,Дождь
-http://ott.server-iptv.live/130/video.m3u8?token=S793FB1732
-#EXTINF:-1,FREEДОМ HD
-http://ott.server-iptv.live/301/video.m3u8?token=S793FB1732
-#EXTINF:-1,Суспільне Одеса
-http://ott.server-iptv.live/309/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan
-http://ott.server-iptv.live/682/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Premium
-http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Top
-http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Action
-http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Marvel
-http://ott.server-iptv.live/688/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Melodrama
-http://ott.server-iptv.live/690/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Комедия
-http://ott.server-iptv.live/691/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Thriller
-http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Катастрофы
-http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Ужасы
-http://ott.server-iptv.live/692/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan VHS
-http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan MiniSeries
-http://ott.server-iptv.live/1662/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Air Crash
-http://ott.server-iptv.live/419/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan РуКино
-http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
-#EXTINF:-1,CineMan Фитнес
-http://ott.server-iptv.live/1404/video.m3u8?token=S793FB1732
-#EXTINF:-1,Eurosport
-http://ott.server-iptv.live/200/video.m3u8?token=S793FB1732
-#EXTINF:-1,Eurosport 2
-http://ott.server-iptv.live/201/video.m3u8?token=S793FB1732
-#EXTINF:-1,TLC
-http://ott.server-iptv.live/413/video.m3u8?token=S793FB1732
-#EXTINF:-1,History2
-http://ott.server-iptv.live/415/video.m3u8?token=S793FB1732
-#EXTINF:-1,Cartoons Big
-http://ott.server-iptv.live/520/video.m3u8?token=S793FB1732
-#EXTINF:-1,Cartoons Short
-http://ott.server-iptv.live/521/video.m3u8?token=S793FB1732
-#EXTINF:-1,Cartoons 90
-http://ott.server-iptv.live/519/video.m3u8?token=S793FB1732
 #EXTINF:-1,Бразилия
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-#EXTINF:-1,Мультиландия
-http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
-#EXTINF:-1,Мульт
-http://ott.server-iptv.live/501/video.m3u8?token=S793FB1732
-#EXTINF:-1,Известия
-http://ott.server-iptv.live/134/video.m3u8?token=S793FB1732
-#EXTINF:-1,СТС Kids HD
-http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
-#EXTINF:-1,Gulli Girl
-http://ott.server-iptv.live/511/video.m3u8?token=S793FB1732
-#EXTINF:-1,Nickelodeon
-http://ott.server-iptv.live/504/video.m3u8?token=S793FB1732
-#EXTINF:-1,Cartoon Network HD
-http://ott.server-iptv.live/506/video.m3u8?token=S793FB1732
-#EXTINF:-1,Boomerang
-http://ott.server-iptv.live/514/video.m3u8?token=S793FB1732
 #EXTINF:-1,Наша тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1,Спортивный
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1,4K travel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:-1,Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Военный
-https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Vevo Weihnachten
 https://jmp2.uk/stvp-DE3500002C4
 #EXTINF:-1,Vevo Navidad
 https://jmp2.uk/stvp-ES35000016A
 #EXTINF:-1,Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1,Gospel Music TV
-http://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1,RTN (на русском)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1,Spirit TV
-http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Первое Радио (ISR)
-http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1,Перец Int.
 http://158.101.222.193:88/georgia_play.php?id=perec
