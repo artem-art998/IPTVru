@@ -561,3 +561,59 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1,Перец Int.
 http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1,КВН ТВ
+http://ott.server-iptv.live/120/video.m3u8?token=S793FB1732
+#EXTINF:-1,Анекдот ТВ
+http://ott.server-iptv.live/127/video.m3u8?token=S793FB1732
+#EXTINF:-1,Сарафан
+http://ott.server-iptv.live/133/video.m3u8?token=S793FB1732
+#EXTINF:-1,Известия
+http://ott.server-iptv.live/134/video.m3u8?token=S793FB1732
+#EXTINF:-1,Дождь
+http://ott.server-iptv.live/130/video.m3u8?token=S793FB1732
+#EXTINF:-1,FREEДОМ HD
+http://ott.server-iptv.live/301/video.m3u8?token=S793FB1732
+#EXTINF:-1,Суспільне Одеса
+http://ott.server-iptv.live/309/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan
+http://ott.server-iptv.live/682/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Premium
+http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Top
+http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Action
+http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Marvel
+http://ott.server-iptv.live/688/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Melodrama
+http://ott.server-iptv.live/690/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Комедия
+http://ott.server-iptv.live/691/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Thriller
+http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Катастрофы
+http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Ужасы
+http://ott.server-iptv.live/692/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan OLD 4K
+http://ott.server-iptv.live/1603/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan VHS
+http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan MiniSeries
+http://ott.server-iptv.live/1662/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Air Crash
+http://ott.server-iptv.live/419/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan CCCP 4K
+http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan РуКино
+http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Фитнес
+http://ott.server-iptv.live/1404/video.m3u8?token=S793FB1732
+#EXTINF:-1,CineMan Relax 4K
+http://ott.server-iptv.live/1405/video.m3u8?token=S793FB1732
+#EXTINF:-1,Cartoons Big
+http://ott.server-iptv.live/520/video.m3u8?token=S793FB1732
+#EXTINF:-1,Cartoons Short
+http://ott.server-iptv.live/521/video.m3u8?token=S793FB1732
+#EXTINF:-1,Cartoons 90
+http://ott.server-iptv.live/519/video.m3u8?token=S793FB1732
