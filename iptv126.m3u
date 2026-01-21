@@ -434,21 +434,7 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1,Ю
-http://194.143.148.28:8080/U/index.m3u8
-#EXTINF:-1,Ю
-http://178.212.71.253:8000/play/105/index.m3u8
-#EXTINF:-1,Ю
-http://95.66.188.74/U/index.m3u8
-#EXTINF:-1,Ю
 http://5.188.221.43:8080/play/utv
-#EXTINF:-1,Бобер
-http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1,Бобер
-http://178.212.71.253:8000/play/77/index.m3u8
-#EXTINF:-1,Бобер
-http://95.66.188.74/Bober/index.m3u8
-#EXTINF:-1,Бобер
-http://95.66.188.74:80/Bober/mono.m3u8
 #EXTINF:-1,Бобер
 http://193.25.8.59:8000/bober
 #EXTINF:-1,Смотрим 100% Факты
@@ -503,16 +489,12 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
 #EXTINF:-1,LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1,VHS-ка HD
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Овертайм
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY УЖАСТИК
@@ -551,10 +533,6 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Vevo Weihnachten
-https://jmp2.uk/stvp-DE3500002C4
-#EXTINF:-1,Vevo Navidad
-https://jmp2.uk/stvp-ES35000016A
 #EXTINF:-1,Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1,RTN (на русском)
@@ -569,8 +547,6 @@ http://ott.server-iptv.live/127/video.m3u8?token=S793FB1732
 http://ott.server-iptv.live/133/video.m3u8?token=S793FB1732
 #EXTINF:-1,Известия
 http://ott.server-iptv.live/134/video.m3u8?token=S793FB1732
-#EXTINF:-1,Дождь
-http://ott.server-iptv.live/130/video.m3u8?token=S793FB1732
 #EXTINF:-1,FREEДОМ HD
 http://ott.server-iptv.live/301/video.m3u8?token=S793FB1732
 #EXTINF:-1,Суспільне Одеса
@@ -617,3 +593,5 @@ http://ott.server-iptv.live/520/video.m3u8?token=S793FB1732
 http://ott.server-iptv.live/521/video.m3u8?token=S793FB1732
 #EXTINF:-1,Cartoons 90
 http://ott.server-iptv.live/519/video.m3u8?token=S793FB1732
+#EXTINF:-1,Бобёр
+http://ott.server-iptv.live/436/video.m3u8?token=S793FB1732
