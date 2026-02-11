@@ -595,7 +595,7 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем — МедЗдрав
 https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
-#EXTINF:-1,Сити Эдем ТВ Христианский
+#EXTINF:-1,Сити Эдем ТВ (Христианский)
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем Плей
 https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
@@ -611,8 +611,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://cdntv.online/high/47eurvkpm6/39.m3u8
 #EXTINF:-1,Premier Sport 1 HD
 https://7pal.short.gy/prsport1
 #EXTINF:-1,Premier Sport 2 HD
@@ -629,3 +627,7 @@ https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
 #EXTINF:-1,BetterLife Nature
 http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1,Eurosport 2 FR
+http://41.205.93.154/EUROSPORT2/index.m3u8
+#EXTINF:-1,MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
