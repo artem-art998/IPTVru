@@ -329,7 +329,7 @@ https://glorystartv.live/Impact/index.m3u8
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
 #EXTINF:-1,Канада
 https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
-#EXTINF:-1,Канада (каток)
+#EXTINF:-1,Канада 2
 https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist.m3u8
 #EXTINF:-1,Казахстан (Нур султан)
 http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
@@ -341,9 +341,7 @@ http://hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/play
 http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 #EXTINF:-1,Воцлав
 https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
-#EXTINF:-1,Наша тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1,Спортивный
+#EXTINF:-1,тв спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
@@ -361,8 +359,6 @@ https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1,FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
-#EXTINF:-1,Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1,TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1,Кино 1 Int.
@@ -413,8 +409,6 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1,FX Life
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1,Kino24
-http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1,Plan_B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1,Viasat Kino Comedy HD
@@ -429,8 +423,6 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1,viju+ Megahit
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:-1,viju+ Megahit HD
-http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1,Вопросы и ответы
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1,Глазами туриста
@@ -465,12 +457,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 http://185.164.82.18:9009/aDxLhVQm_Drive
 #EXTINF:-1,Еда Премиум Международный
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
-#EXTINF:-1,Сити Эдем — Рецепты Гурмана
-https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем — МедЗдрав
 https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
-#EXTINF:-1,Сити Эдем ТВ (Христианский)
-https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
 #EXTINF:-1,Сити Эдем Плей
 https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
 #EXTINF:-1,Старт Баскет
@@ -495,8 +483,6 @@ https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
 http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1,Eurosport 2 FR
 http://41.205.93.154/EUROSPORT2/index.m3u8
-#EXTINF:-1,MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1,NSC+ (720p)
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1,Qazaqstan International (1080p)
@@ -511,8 +497,6 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1,Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1,Радио Хит (Орск) (720p)
-http://lova.me/hls/hithd.m3u8
 #EXTINF:-1,Телекафе
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 #EXTINF:-1,Щёлковское ТВ (576p) [Not 24/7]
@@ -541,3 +525,15 @@ https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1,Россия 24 (Рыбинск)
 http://dmi3y-tv6.ru/hls/zabava/region/RYB/CH_ROSSIA24.m3u8
+#EXTINF:-1,DTR ZONA 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1,DTR ZONA 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1,Новый Русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=8Gz2hE4uNNbKvdaaxYNRQn
+#EXTINF:-1,Тв студия ФАКТ (ЯНАО)
+https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/62e7b5941384e1858cbff8b42a858b4d--livemaster--lezlkenzbx_TV_Studia_Fakt--tracks-v1a1--mono.m3u8?hls_proxy_host=a50406e9ee2e2c2a49995681145b0350
+#EXTINF:-1,Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,Спорт Грузия (Live)
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
