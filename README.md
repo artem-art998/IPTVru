@@ -1,6 +1,7 @@
 Смешанный плейлист iptv Руские каналы тв  в формате m3u.
 
 Ссылка: https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
+Ссылка: https://clck.ru/3SiP7t
 
 Для Андроид ТВ.
 
